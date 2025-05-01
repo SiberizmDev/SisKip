@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "SisKip",
+    "slug": "SisKip",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.asena.siskip"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "9ccebd06-7f7b-4d3f-b291-821892236ec3"
+      }
+    },
+    "android": {
+      "package": "com.asena.siskip"
+    }
+  }
+}
