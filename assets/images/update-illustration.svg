@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#E8F3FF"/>
+  
+  <!-- Update Arrow -->
+  <path d="M100 50C77.9086 50 60 67.9086 60 90C60 112.091 77.9086 130 100 130C122.091 130 140 112.091 140 90C140 81.4021 137.478 73.4085 133.107 66.8926" stroke="#1A73E8" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Arrow Head -->
+  <path d="M145 45L133.107 66.8926L111.213 55" stroke="#1A73E8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Inner Circle -->
+  <circle cx="100" cy="90" r="15" fill="#1A73E8"/>
+</svg> 
