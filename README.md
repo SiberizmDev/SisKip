@@ -73,7 +73,7 @@ Bu proje GNU General Public License v3.0 (GPL-3.0) lisansı altında lisanslanm�
 ## 📞 İletişim
 
 - GitHub: [@SiberizmDev](https://github.com/SiberizmDev)
-- Instagram: [@SiberizmDev](https://instagram.com/ahmetinzmsec)
+- Instagram: [@nexabag.media](https://instagram.com/nexabag.media)
 - E-posta: siberizmbey@gmail.com
 
 ## ⚠️ Sorumluluk Reddi
